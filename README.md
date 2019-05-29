@@ -146,7 +146,7 @@ LDAP servers can use LDIF (LDAP Data Interchange Format) files to exchange user 
     
 If you visit the site at http://localhost:8080, you should be redirected to a login page provided by Spring Security.
 
-Enter username ben and password benspassword. You should see this message in your browser:
+Enter username `ben` and password `benspassword` You should see this message in your browser:
 
     Welcome to the home page!
     
